@@ -1,0 +1,76 @@
+HEADLINE: Cold Front Brings Freezing Temperatures and Light Snow to Mississippi, with Rainfall Potential Near Greenville
+
+HIGHLIGHTS:
+- No active watches, warnings, or advisories are in effect for Mississippi.
+- Temperatures across the state remain cold, with lows dropping into the teens and twenties in many areas.
+- Light snow is possible near Southaven, with accumulations up to 3.8 inches forecast.
+- Rainfall totals up to 2.5 inches are expected near Greenville, mainly from Wednesday through Thursday.
+- The weather pattern shifts to colder conditions with the potential for freezing rain, sleet, and snow later this week.
+
+
+ARTICLE (5490 chars):
+## Watches, Warnings & Advisories
+No active watches, warnings, or advisories for Mississippi.
+
+## Current Conditions
+Across Mississippi, current conditions reflect a cold, wintry pattern:
+- Northwest region centered around Southaven is mostly cloudy with a temperature of 39°F and winds from the NNW at 5 to 10 mph.
+- Northeast region near Tupelo reports partly sunny skies at 47°F, with NNW winds at 5 to 10 mph.
+- Delta region, including Greenville, is partly sunny at 49°F with light NNE winds.
+- Central Mississippi, around Jackson, is sunny with a temperature of 54°F and N winds at 5 mph.
+- Southwest, Pine Belt region including Hattiesburg, sees sunny skies at 56°F with light NNE winds.
+- Gulf Coast West at Gulfport is sunny at 57°F, with a light NE breeze.
+- Gulf Coast East near Pascagoula is also sunny at 57°F, with similar wind conditions.
+
+## Today's Forecast
+Today remains cold and mostly cloudy across Mississippi, with highs generally in the upper 30s to mid-50s:
+- Northwest (Southaven): High of 39°F, low of 22°F; mostly cloudy, minimal chance of precipitation (3%).
+- Northeast (Tupelo): High of 47°F, low of 20°F; partly sunny with negligible rain chance.
+- Delta (Greenville): High of 49°F, low of 26°F; partly sunny, little to no rain expected, but rainfall could total up to 2.5 inches through the event.
+- Central (Jackson): High of 54°F, low of 27°F; sunny with no rain expected.
+- Southwest (Hattiesburg): High of 56°F, low of 29°F; sunny, dry conditions.
+- Gulf Coast West (Gulfport): High of 57°F, low of 34°F; sunny, light breezes.
+- Gulf Coast East (Pascagoula): High of 57°F, low of 33°F; sunny with minimal chance of rain.
+
+## 3-Day Outlook
+- **Tuesday:** Slight warming with highs in the mid-40s to low 50s, mostly sunny except for possible patchy frost in the morning.
+- **Wednesday:** Rain showers likely, with highs in the low 50s to mid-50s; rainfall up to nearly 2 inches near Greenville and the coast.
+- **Thursday:** Chance of light rain, with temperatures rising into the low 50s to high 50s; showers becoming more widespread.
+- **Friday:** Cold front may bring a mix of rain and snow, with highs dropping to the mid-30s and low temperatures around 15°F to 23°F.
+- **Saturday:** Snow likely across northern Mississippi, with accumulations up to 3.8 inches near Southaven; highs only in the low 20s.
+- **Sunday:** Slightly improved conditions with a slight chance of snow showers then clearing for mostly sunny skies, highs near 27°F.
+
+## 7-Day Forecast
+The upcoming week features continued cold conditions, with a significant winter event midweek:
+- Early week sees temperatures in the 40s and 50s, with minimal precipitation.
+- Midweek marks the arrival of a winter storm system with rain, sleet, and snow, especially Thursday through Saturday.
+- Heavy snowfall of up to 3.8 inches is possible near Southaven on Saturday.
+- Temperatures will plummet into the teens and twenties at night, with daytime highs struggling to reach the 30s.
+- By Sunday, conditions begin to clear, but cold persists, with highs remaining below seasonal averages.
+
+## Regional Details
+**Northwest (Southaven):** Currently 39°F, mostly cloudy. Today’s high 39°F, low 22°F. Snow possible Saturday with up to 3.8 inches; minimal rain today.
+**Northeast (Tupelo):** 47°F and partly sunny. Highs around 47°F, lows near 20°F. Chance of rain Wednesday and Thursday, with potential for freezing rain Saturday.
+**Delta (Greenville):** 49°F, partly sunny. Today’s high 49°F, lows 26°F. Up to 2.5 inches of rain possible, with snow possible near Southaven.
+**Central (Jackson):** 54°F, sunny. High of 54°F, low of 27°F. Widespread frost Tuesday morning; rain possible Wednesday and Thursday.
+**Southwest (Hattiesburg):** 56°F, sunny. High of 56°F, low of 29°F. Rain and snow chances increase Thursday through Saturday.
+**Pine Belt (Hattiesburg):** Similar to Southwest, with highs near 56°F, lows around 29°F. Expect rain Thursday and snow Saturday.
+**Gulf Coast West (Gulfport):** 57°F, sunny. Highs around 57°F, lows near 34°F. Rain chances increase Thursday and Friday.
+**Gulf Coast East (Pascagoula):** 57°F, sunny. High of 57°F, low of 33°F, with rain possible Thursday and Friday.
+
+## Hazards
+No active severe weather or flood warnings are in effect. However, the upcoming days pose winter hazards, including:
+- Snow accumulation up to 3.8 inches near Southaven Saturday.
+- Freezing rain and sleet expected in northern and central Mississippi Saturday and Sunday.
+- Cold temperatures with lows potentially dropping into the teens and twenties, increasing risk of hypothermia and frostbite.
+- Widespread winter precipitation could impact travel conditions, especially Saturday and Sunday.
+
+## Timing & Confidence
+The cold air mass is currently entrenched, with winter precipitation forecast mainly from Wednesday through Saturday. The heaviest snow is expected Saturday in northern Mississippi, with accumulations of up to 3.8 inches near Southaven. Rainfall of up to 2.5 inches is forecast for the Mississippi Delta region, primarily from Wednesday to Thursday. Confidence in timing and amounts remains moderate due to variability in storm development, but confidence in cold temperatures and the general winter pattern is high.
+
+## Sources
+- National Weather Service Active Alerts API
+- NWS Gridpoint Forecast API
+- SPC Convective Outlooks (NOAA MapServer)
+- WPC Excessive Rainfall Outlook (NOAA MapServer)
+- National Hurricane Center products (none active for Mississippi)

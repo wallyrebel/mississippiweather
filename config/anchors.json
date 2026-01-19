@@ -1,0 +1,69 @@
+{
+    "description": "Regional anchor points for narrative clarity - one city per region to provide detailed forecasts",
+    "anchors": [
+        {
+            "id": "nw",
+            "region": "Northwest",
+            "city": "Southaven",
+            "lat": 34.9889,
+            "lon": -90.0126,
+            "description": "Memphis metro/DeSoto County area"
+        },
+        {
+            "id": "ne",
+            "region": "Northeast",
+            "city": "Tupelo",
+            "lat": 34.2576,
+            "lon": -88.7034,
+            "description": "Major NE Mississippi city, Lee County"
+        },
+        {
+            "id": "delta",
+            "region": "Delta",
+            "city": "Greenville",
+            "lat": 33.4101,
+            "lon": -91.0618,
+            "description": "Mississippi Delta, Washington County"
+        },
+        {
+            "id": "central",
+            "region": "Central",
+            "city": "Jackson",
+            "lat": 32.2988,
+            "lon": -90.1848,
+            "description": "State capital, Hinds County"
+        },
+        {
+            "id": "sw",
+            "region": "Southwest",
+            "city": "Natchez",
+            "lat": 31.5604,
+            "lon": -91.4032,
+            "description": "Historic river city, Adams County"
+        },
+        {
+            "id": "pinebelt",
+            "region": "Pine Belt",
+            "city": "Hattiesburg",
+            "lat": 31.3271,
+            "lon": -89.2903,
+            "description": "South-central hub, Forrest County"
+        },
+        {
+            "id": "gcw",
+            "region": "Gulf Coast West",
+            "city": "Gulfport",
+            "lat": 30.3674,
+            "lon": -89.0928,
+            "description": "Western Gulf Coast, Harrison County"
+        },
+        {
+            "id": "gce",
+            "region": "Gulf Coast East",
+            "city": "Pascagoula",
+            "lat": 30.3658,
+            "lon": -88.5561,
+            "description": "Eastern Gulf Coast, Jackson County"
+        }
+    ]
+}

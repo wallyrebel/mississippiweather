@@ -1,0 +1,29 @@
+HEADLINE:
+Mississippi Weather Update — Afternoon 2026-01-19
+
+HIGHLIGHTS:
+- No active weather alerts for Mississippi. Highs ranging from 39°F to 57°F across the state. Lows ran...
+- No active weather alerts
+- No severe weather expected
+- Up to 2.5 inches possible near Greenville
+- See regional details below
+
+ARTICLE BODY (763 chars):
+## Overview
+
+No active weather alerts for Mississippi. Highs ranging from 39°F to 57°F across the state. Lows ranging from 20°F to 34°F. Rainfall: Up to 2.5 inches possible near Greenville
+
+## By Region
+
+**Northwest (Southaven)**: High 39°F, Mostly Cloudy
+**Northeast (Tupelo)**: High 47°F, Partly Sunny
+**Delta (Greenville)**: High 49°F, Partly Sunny
+**Central (Jackson)**: High 54°F, Sunny
+**Southwest (Natchez)**: High 57°F, Sunny
+**Pine Belt (Hattiesburg)**: High 56°F, Sunny
+**Gulf Coast West (Gulfport)**: High 57°F, Sunny
+**Gulf Coast East (Pascagoula)**: High 57°F, Sunny
+
+## Sources
+
+This briefing uses data from: NWS Active Alerts API, NWS Gridpoint Forecast API, SPC Convective Outlooks (NOAA MapServer), WPC Excessive Rainfall Outlook (NOAA MapServer)
