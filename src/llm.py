@@ -155,7 +155,8 @@ def build_llm_prompt(briefing: WeatherBriefing) -> str:
             counties = []
             for a in alerts:
                 counties.extend(a.affected_counties)
-            alert_list.append(f"- {event_type}: {', '.join(set(counties)[:5])}")
+            unique_counties = list(dict.fromkeys(counties))
+            alert_list.append(f"- {event_type}: {', '.join(unique_counties[:5])}")
         alert_summary = "\n".join(alert_list)
     
     prompt = f"""Generate a comprehensive Mississippi Weather Briefing article.
