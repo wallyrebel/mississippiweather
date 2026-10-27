@@ -10,6 +10,7 @@ import os
 from typing import Dict, Any, Tuple, Optional, List
 
 from openai import OpenAI
+from .model_options import chat_model_params, resolve_retired_model
 
 from .models import WeatherBriefing
 
@@ -18,10 +19,9 @@ logger = logging.getLogger(__name__)
 # Model preference order - try each until one works
 MODEL_CHAIN = [
     "gpt-5-mini",      # Primary - superior quality
-    "gpt-4.1-nano",    # Fallback 1 - cost effective
+    "gpt-6-luna",    # Fallback 1 - cost effective
     "gpt-4o-mini",     # Fallback 2 - widely available
     "gpt-4o",          # Fallback 3 - high quality
-    "gpt-4",           # Fallback 4 - stable
 ]
 
 
@@ -210,17 +210,18 @@ def try_generate_with_model(
     Returns:
         Generated content or None if failed
     """
+    model = resolve_retired_model(model)
     try:
         logger.info(f"Trying model: {model}")
         response = client.chat.completions.create(
-            model=model,
-            messages=[
+            **chat_model_params({"model": model,
+            "messages": [
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": prompt},
             ],
-            max_tokens=6000,
-            temperature=0.7,
-        )
+            "max_tokens": 6000,
+            "temperature": 0.7,
+        }))
         
         content = response.choices[0].message.content
         logger.info(f"Success with {model}: {len(content)} characters generated")
